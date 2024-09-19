@@ -1,0 +1,12 @@
+.~
+*.dsm
+*.ddp
+*.map
+*.rsm
+*.dcu
+*.tds
+*.local
+*.identcache
+*.dsk
+*.stat
+*.tvsconfig
