@@ -1,10 +1,10 @@
 object Form1: TForm1
-  Left = 1768
-  Top = 473
+  Left = 1065
+  Top = 64
   BorderIcons = [biSystemMenu, biMinimize]
   BorderStyle = bsSingle
   Caption = #1055#1086#1080#1089#1082' '#1087#1088#1086#1073#1080#1088#1086#1082' '#1080' '#1085#1072#1087#1088#1072#1074#1083#1077#1085#1080#1081
-  ClientHeight = 651
+  ClientHeight = 971
   ClientWidth = 683
   Color = clBtnFace
   Font.Charset = DEFAULT_CHARSET
@@ -73,14 +73,13 @@ object Form1: TForm1
     Left = 8
     Top = 48
     Width = 137
-    Height = 600
+    Height = 915
     Style = lbOwnerDrawVariable
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
     Font.Height = -13
     Font.Name = 'MS Sans Serif'
     Font.Style = []
-    ItemHeight = 16
     MultiSelect = True
     ParentFont = False
     TabOrder = 2
@@ -91,14 +90,13 @@ object Form1: TForm1
     Left = 161
     Top = 48
     Width = 137
-    Height = 600
+    Height = 915
     Style = lbOwnerDrawVariable
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
     Font.Height = -13
     Font.Name = 'MS Sans Serif'
     Font.Style = []
-    ItemHeight = 16
     MultiSelect = True
     ParentFont = False
     TabOrder = 3
@@ -152,30 +150,28 @@ object Form1: TForm1
     OnClick = btn1Click
   end
   object lst3: TListBox
-    Left = 385
-    Top = 48
+    Left = 384
+    Top = 40
     Width = 137
-    Height = 600
+    Height = 923
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
     Font.Height = -13
     Font.Name = 'MS Sans Serif'
     Font.Style = [fsBold]
-    ItemHeight = 16
     ParentFont = False
     TabOrder = 6
   end
   object lst4: TListBox
     Left = 536
-    Top = 48
+    Top = 40
     Width = 137
-    Height = 600
+    Height = 923
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
     Font.Height = -13
     Font.Name = 'MS Sans Serif'
     Font.Style = [fsBold]
-    ItemHeight = 16
     ParentFont = False
     TabOrder = 7
   end
